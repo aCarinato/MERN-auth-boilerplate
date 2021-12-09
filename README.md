@@ -20,7 +20,7 @@ which should contain the following environment variables:
 - NEXT_PUBLIC_API=http://localhost:8000/api
 ```
 
-# Server
+### Server
 
 In the server folder this file has to be added:
 
